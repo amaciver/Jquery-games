@@ -1,0 +1,30 @@
+.hanoi {
+  position: absolute;
+  margin: auto, 0;
+  width: 500px;
+  height: 500px;
+  background-color: green;
+}
+
+li {
+  list-style-type: none;
+  font-size: 50px;
+  font-family: Arial, sans-serif;
+  width: 150px;
+  border-width: 5px;
+  border-style: dashed;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  margin: auto, 0;
+  /*display: inline-block;*/
+}
+
+.from {
+  background-color: yellow;
+
+}
+
+.to {
+  background-color: green;
+}

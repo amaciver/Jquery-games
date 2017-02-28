@@ -1,0 +1,17 @@
+.game-view {
+  height: 500px;
+  width: 500px;
+}
+
+.segment {
+  height: 5px;
+  width: 5px;
+  background-color: "green";
+}
+
+.board {
+  border-style: solid;
+  border-color: black;
+  height: 300px;
+  width: 300px;
+}
